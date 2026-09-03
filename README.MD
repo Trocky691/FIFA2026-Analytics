@@ -2,7 +2,7 @@
 
 This project analyses FIFA World Cup 2026 team and player statistics using Python.
 
-## Project Tasks
+## Project Tasks 
 
 ### Task 1: Possession and Shot Accuracy
 This task investigates whether higher-possession teams have better shot accuracy than lower-possession teams.
@@ -43,7 +43,7 @@ Statistical methods used:
 
 ## Tools Used
 
-- Python
+- Python 
 - pandas
 - NumPy
 - SciPy
